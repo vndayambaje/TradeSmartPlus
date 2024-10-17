@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow==2.12.0
+xgboost
+ta-lib
+yfinance
+vaderSentiment
+stable-baselines3
+gym
+alpaca-trade-api
+fpdf
